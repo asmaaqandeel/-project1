@@ -136,8 +136,8 @@ background-repeat: no-repeat;
 }
 .hoc{
 position: absolute;
-top:60%;
-left:30%;
+top:50%;
+left:20%;
 transform: translate(-50%,-50%);
 text-align: center;
 width:65%;
