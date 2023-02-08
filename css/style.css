@@ -137,11 +137,13 @@ background-repeat: no-repeat;
 .hoc{
 position: absolute;
 top:50%;
-left:20%;
+left:25%;
 transform: translate(-50%,-50%);
 text-align: center;
 width:65%;
 margin-top: -15%;;
+
+right: 20%;   
 }
 .hoc .hhh {
 color: rgb(32, 32, 32);
