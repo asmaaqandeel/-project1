@@ -136,14 +136,15 @@ background-repeat: no-repeat;
 }
 .hoc{
 position: absolute;
-top:30%;
-left:45%;
+top:60%;
+left:35%;
 transform: translate(-50%,-50%);
 text-align: center;
 width:65%;
-right: 190px;
- 
- 
+right: 10%;
+margin-top: -10%;
+
+
 }
 .hoc .hhh {
 color: rgb(32, 32, 32);
